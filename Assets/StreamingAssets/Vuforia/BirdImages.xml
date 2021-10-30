@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="silvereye" size="0.215000 0.430000" />
+    <ImageTarget name="blueDuck" size="0.215000 0.430000" />
+    <ImageTarget name="Takahe" size="0.215000 0.430000" />
+    <ImageTarget name="Tui" size="0.215000 0.430000" />
+    <ImageTarget name="Kakapo" size="0.215000 0.430000" />
+    <ImageTarget name="albatross" size="0.215000 0.430000" />
+    <ImageTarget name="nzPidgeon" size="0.215000 0.430000" />
+    <ImageTarget name="littleBluePenguin" size="0.215000 0.430000" />
+    <ImageTarget name="paradiseDuck" size="0.215000 0.430000" />
+    <ImageTarget name="orangeFrontedParakeet" size="0.215000 0.430000" />
+  </Tracking>
+</QCARConfig>
