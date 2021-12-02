@@ -3,6 +3,8 @@
 ## How To Play
 To begin discovering birds once the app is installed, look at 1 - 4 of the 10 unique image targets through the app and the corresponding birds will appear. Tapping once on a bird will bring up facts on the bird, while double tapping will bring up a quiz question with 4 answer options. Incorrectly answering a question will disable that answer, and allow the player to continue attempting to find the right answer to the quiz. The answers to all quiz questions can be found within the bird’s facts section.
 
+- The target images for the birds are located in: Assets/Editor/Vuforia/ImageTargetTextures/BirdImages
+
 
 ## Installation & Running
 ### PC
