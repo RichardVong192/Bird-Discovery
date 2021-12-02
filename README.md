@@ -5,10 +5,6 @@ To begin discovering birds once the app is installed, look at 1 - 4 of the 10 un
 
 - The target images for the birds are located in: Assets/Editor/Vuforia/ImageTargetTextures/BirdImages
 
-![image](https://user-images.githubusercontent.com/53926483/144405414-0c473ec3-2e57-4b0d-a712-a18e013787dc.png)
-
-
-
 ## Installation & Running
 ### PC
 - Download the project folder
@@ -36,3 +32,11 @@ To begin discovering birds once the app is installed, look at 1 - 4 of the 10 un
 - Then, with the Android device connected and selected as the “Run Device”, select “Build and Run”
 - Specify where the APK file should be saved
 - The app should now be installed on your Android device, and capable of being run when disconnected from the PC.
+
+Screenshots of gameplay:
+![image](https://user-images.githubusercontent.com/53926483/144405828-e4184202-c949-45c1-b535-f53b6d414a7c.png)
+![image](https://user-images.githubusercontent.com/53926483/144405876-9991149c-9dd1-4789-a858-44f90b696be2.png)
+![image](https://user-images.githubusercontent.com/53926483/144405894-bb52cc47-90f0-489f-97e1-2f64bfbe1ac7.png)
+
+
+
