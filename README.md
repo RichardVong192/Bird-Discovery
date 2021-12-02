@@ -5,6 +5,9 @@ To begin discovering birds once the app is installed, look at 1 - 4 of the 10 un
 
 - The target images for the birds are located in: Assets/Editor/Vuforia/ImageTargetTextures/BirdImages
 
+![image](https://user-images.githubusercontent.com/53926483/144405414-0c473ec3-2e57-4b0d-a712-a18e013787dc.png)
+
+
 
 ## Installation & Running
 ### PC
