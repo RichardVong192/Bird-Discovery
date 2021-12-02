@@ -34,6 +34,7 @@ To begin discovering birds once the app is installed, look at 1 - 4 of the 10 un
 - The app should now be installed on your Android device, and capable of being run when disconnected from the PC.
 
 Screenshots of gameplay:
+
 ![image](https://user-images.githubusercontent.com/53926483/144405828-e4184202-c949-45c1-b535-f53b6d414a7c.png)
 ![image](https://user-images.githubusercontent.com/53926483/144405876-9991149c-9dd1-4789-a858-44f90b696be2.png)
 ![image](https://user-images.githubusercontent.com/53926483/144405894-bb52cc47-90f0-489f-97e1-2f64bfbe1ac7.png)
